@@ -1,8 +1,5 @@
 ⚡ Clothing Store — Modern Django E-Commerce
 
-<p align="center">
-  <img src= <img width="1920" height="906" alt="Screenshot 2026-04-07 123000" src="https://github.com/user-attachments/assets/aafb267e-b99a-431e-b5e1-648f5498d7f8" />
-</p><p align="center">
   <b>High-performance Django e-commerce platform with a clean architecture and modern UI.</b>
 </p>---
 
