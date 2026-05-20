@@ -1,4 +1,4 @@
-⚡ Clothing Store — Modern Django E-Commerce
+⚡ Lit-Wear Clothing Website — Modern Django E-Commerce
 
   <b>High-performance Django e-commerce platform with a clean architecture and modern UI.</b>
 </p>---
@@ -22,39 +22,6 @@
 - 🔒 Secure and scalable architecture
 - 📦 Modular Django app structure
 
----
-
-📂 Project Structure
-
-clothing-store/
-│
-├── app/                    # Django app
-│   ├── migrations/
-│   ├── templates/
-│   ├── static/
-│   ├── __init__.py
-│   ├── admin.py
-│   ├── apps.py
-│   ├── models.py
-│   ├── views.py
-│   └── urls.py
-│
-├── images/                 # Static assets
-├── src/                    # Frontend / extra logic
-│
-├── account.html
-├── cart.html
-├── index.html
-├── product_details.html
-│
-├── config.py              # Project config
-├── run.py                 # Run server
-├── seed.py                # Seed data
-│
-├── requirements.txt
-└── README.md
-
----
 
 🎬 Preview
 
