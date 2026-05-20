@@ -1,10 +1,12 @@
 ⚡ LitWear Clothing Website — Modern Django E-Commerce
 
   <b>High-performance Django e-commerce platform with a clean architecture and modern UI.</b>
-</p>---
+</p>
 
  🌐 Live Demo
 [View Project](https://litwear-app.netlify.app)
+
+
 
 🚀 Tech Stack
 
@@ -45,7 +47,6 @@ Modern dark-themed fashion e-commerce interface built with Django, featuring res
 
 
 ⚙️ Installation
-
 # Clone the repo
 git clone https://github.com/iblamesrix/LitWear.git
 
@@ -65,13 +66,12 @@ pip install -r requirements.txt
 # Run project
 python run.py
 
----
 
 🧪 Seed Data
 
 python seed.py
 
----
+
 
 🌐 Usage
 
@@ -81,15 +81,16 @@ python seed.py
 
 
 
-🛠 Future Improvements
+🚀 Highlights
 
-- 💳 Payment Gateway Integration
-- 📦 Order Tracking System
-- 🔔 Notifications
-- 📱 Mobile responsiveness upgrade
-- 🤖 AI-based recommendations
+- Responsive fashion storefront
+- Dynamic product pages
+- Shopping cart workflow
+- Django-powered backend
+- Optimized frontend rendering
+- Clean UI/UX design
+- Mobile-friendly layout
 
----
 
 📜 License
 
